@@ -17157,8 +17157,6 @@ self: super: with self; {
 
   pyviz-comms = callPackage ../development/python-modules/pyviz-comms { };
 
-  pyvizio = callPackage ../development/python-modules/pyvizio { };
-
   pyvlx = callPackage ../development/python-modules/pyvlx { };
 
   pyvmomi = callPackage ../development/python-modules/pyvmomi { };
